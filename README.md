@@ -1,20 +1,6 @@
 # Readme
 
-## Smaller heading
-
-### Even smaller heading
-
-#### Tiny heading
-
-##### Basically just bold
-
-## A more top level heading
-
-This is **not** a good example of a README.
-
-It basically telss me nothing.
-
-Don't write like this
+This is my data cleaning
 
 Here is my checklist of things to do:
 * Get the MTA data
